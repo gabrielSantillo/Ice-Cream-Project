@@ -49,6 +49,7 @@ img {
         display: grid;
         grid-auto-flow: row;
         row-gap: 10px;
+        place-items: center;
     }
 
     >article>img {
